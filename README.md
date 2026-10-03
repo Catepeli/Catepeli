@@ -11,10 +11,8 @@ I also focus on the systems of human ecosystems, accessibility, and digital resp
 To round out my skills, I do some development work on certain projects to better understand the tools I use every day.
 - 🌱 I’m currently learning Vue.js and python,
 
-<img src="https://shields.io" />
-<img src="https://shields.io" />
-<img src="https://shields.io" />
-<img src="https://shields.io" />
+![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io) ![Python](https://shields.io)
+
 
 - 🏊 I go to the Manche sea very often, and swim there
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
